@@ -46,3 +46,6 @@ SWITCH  FUNCTIONS
 Feel free to make this project... And I'm still finding some difficulties in controling the mouse, 
 And if any of u clear this one lemme know. Happy hacking 😍
 
+
+Check the easy eda files for the pcb too :- 
+https://easyeda.com/abhi223344/crack_mouse
